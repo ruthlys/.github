@@ -7,7 +7,7 @@ The German Development Cooperation initiative “FAIR Forward – Artificial Int
 <img src="https://github.com/Fair-Forward/.github/blob/main/images/FF_intro.jpeg" width="520"/>
 
 ## About this Github Space
-:fire: What does the repo contain?
-:question: Why this Repo
-:fork_and_knife: What are forks - who updates them/how often
-:zap: How complete is this list etc... etc.
+* :fire: What does the repo contain?
+* :question: Why this Repo
+* :fork_and_knife: What are forks - who updates them/how often
+* :zap: How complete is this list etc... etc.
