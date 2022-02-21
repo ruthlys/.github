@@ -1,4 +1,6 @@
 # Fair Forward Artificial Intelligence for All - more open, inclusive and sustainable approach to AI on an international level
+
+![fair forward logo](https://github.com/Fair-Forward/.github/blob/main/images/fair_forward_logo.jpeg)
 ## Let's add a small Intro here:
 * What does the repo contain.
 * Who is FairForward
