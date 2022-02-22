@@ -9,6 +9,8 @@ The German Development Cooperation initiative “FAIR Forward – Artificial Int
 ## About this Github Space
 :fire: What does the repo contain?
 
+This repo contains a collection of ongoing projects supported  by GIZ.
+
 :question: Why this Repo
 
 :fork_and_knife: What are forks - who updates them/how often
